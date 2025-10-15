@@ -1,5 +1,11 @@
-# Kelompok-11
-Overview Sistem
+# UTS KOMPUTER PEMROGRAMAN (Kelompok-11)
+Judul project: STUDI KASUS 1: MANAJEMEN NILAI MAHASISWA
+Anggota Kelompok:
+1.Mario andiko Dwi Saputra (G1A025015)
+2.Viola Ahza Amita (G1A025009)
+3.Muhammad Afzal Saputra (G1A025049)
+
+# Overview Sistem
 
 Sebagai bagian dari tugas mata kuliah pemrograman berorientasi objek, mahasiswa Program Studi Informatika diminta untuk membuat sebuah sistem yang dapat mengelola data nilai mahasiswa secara otomatis. Selama ini, proses pengolahan nilai masih sering dilakukan secara manual menggunakan lembar kerja seperti Excel, yang berisiko menimbulkan kesalahan dalam perhitungan, keterlambatan dalam pengumuman nilai, serta kesulitan dalam menentukan kelulusan mahasiswa secara cepat dan akurat. Dari tugas tersebut, mahasiswa diminta untuk merancang sistem sederhana yang mampu menghitung nilai rata-rata serta menentukan status kelulusan mahasiswa berdasarkan kriteria tertentu.
 
