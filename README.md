@@ -1,5 +1,5 @@
 # UTS KOMPUTER PEMROGRAMAN (Kelompok-11)
-Judul project: STUDI KASUS 1: MANAJEMEN NILAI MAHASISWA
+# Judul project: STUDI KASUS 1: MANAJEMEN NILAI MAHASISWA
 
 # Anggota Kelompok:
 1.Mario andiko Dwi Saputra (G1A025015)
