@@ -1,9 +1,9 @@
 # STUDI KASUS 1 MANAJEMEN NILAI MAHASISWA
 
 NAMA KELOMPOK: 11
-1. Mario andiko Dwi Saputra (G1A025015)
+1. Viola Ahza Amita (G1A025009)
 
-2. Viola Ahza Amita (G1A025009)
+2. Mario andiko Dwi Saputra (G1A025015)
 
 3. Muhammad Afzal Saputra (G1A025049)
 
